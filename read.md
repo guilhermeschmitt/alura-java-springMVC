@@ -1,0 +1,7 @@
+# Spring MVC I e II (35h) - Projeto com diversas melhorias a serem feitas
+
+Neste curso estudamos o SpringMVC e alguns dos seus módulos para resolver problemas reais, para isso, foi proposto um projeto semelhante a **Casa do código**, site da própria Alura, focado em venda de livros.
+
+Há um controle de roles e localização, a venda do produto é feita de "mentirinha", utilizando uma API externa, infelizmente há também algumas rotas não mapeadas, como as do index, como este projeto foi sendo desenvolvido de acordo com o que era pedido no curso, algumas coisas ficaram pelo caminho e deverão ser arrumadas mais para frente, como por exemplo: **Links com referência estática, a finalização do pagamento não está esvaziando o carrinho e também não temos um aviso na página informando o sucesso na compra, além destes erros, temos também a página inicial, que ao clicarmos em um livro, somos mandados a uma página que não existe. Também temos links errados no topo da página. Em questão de segurança, oque me vem a mente é a falta de controle no arquivo que é upado ao cadastrarmos um novo livro e ao XSS, neste mesmo passo.** Como pode-se ver, há bastante coisa para ser feita ainda, porém, não são coisas que demandam muito trabalho.
+
+Certificado de conclusão do curso [I](https://cursos.alura.com.br/certificate/a210395f-acc4-41bb-a505-93969ce46fa2) e [II](https://cursos.alura.com.br/certificate/c97522f0-dbb5-4dec-a882-61658663aa5f).
